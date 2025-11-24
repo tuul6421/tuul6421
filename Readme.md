@@ -1,74 +1,66 @@
 ++ Begin README.md
-<!-- Special self-intro README for Tuul (tuul6421) -->
-# Tuul (tuul6421) — Миний GitHub профайл
 
-Сайн байна уу! Би Tuul — жижиг, сайтар зурагласан, цэвэр frontend болон портфолио вэб сайт хөгжүүлэгч.
+<h1 align="center">🌸⚡ tuul6421 — Welcome to my github ⚡🌸</h1>
 
-Энэ репозитор нь миний энгийн вэб портфолиог агуулж байна: `index.html` ба `styles.css` файлуудар үүсгэсэн responsive загвар.
+<p align="center">
+  <img src="https://i.imgur.com/DbZC9Yd.gif" width="420">
+</p>
 
-### Богино танилцуулга
-
-- Нэр: Tuul
-- Имэйл: tuul.ga0604@gmail.com
-- GitHub: https://github.com/tuul6421
-- Мэргэжил: Frontend / Web portfolio — HTML, CSS, JavaScript, responsive дизайны анхан шатны шийдэл
-
-### Би юун дээр ажилладаг вэ
-
-- Бүрэн responsive, энгийн, хурдан ачааллагдах portfolio вэб сайтууд
-- Цэвэр, semantic HTML болон зөв зохиосон CSS (Flexbox, Grid, media queries)
-- Жижиг интерактив элемент (Vanilla JavaScript) ба GitHub Pages дээр байршуулалт
-
-### Гол ур чадварууд
-
-- HTML5, CSS3 (Flexbox, Grid), Responsive Design
-- JavaScript (vanilla) — цөөн функц, DOM манипуляци
-- Git, GitHub, GitHub Pages
-- Basic image optimization, accessibility-aware markup
-
-### Энэ репозитор дахь чухал файлууд
-
-- `index.html` — Хуудасны үндсэн бүтэц (hero, about, skills, projects, contact)
-- `styles.css` — Сайтын загварын файл
-
-### Locally — хэрхэн ажиллуулах
-
-1) Терминал нээж энэ фолдер руу орно:
-
-```bash
-cd "/Users/tuul/Desktop/my portfolio"
-```
-
-2) Браузерээр `index.html` файлыг нээнэ:
-
-```bash
-open index.html
-```
-
-Эсвэл файл дээр давхар дарж нээгээрэй.
-
-### Projects (товч)
-
-- Энэхүү репо: портфолио хуудас — simple, responsive, portable
-- Хэрвээ та нэмэлт функц (contact form integration, deploy pipeline, dark mode гэх мэт) хүсвэл би нэмэлтчилж өгч болно.
-
-### Холбоо барих
-
-- И-мэйл: tuul.ga0604@gmail.com
-- GitHub: https://github.com/tuul6421
-
-Хэрэв та хамтран ажиллах, санал өгөх, эсвэл сайтын загварт туслахыг хүсвэл над руу шууд и-мэйл илгээж болно.
-
-### Лиценз
-
-Энэ репозитор MIT лицензээр хуваалцагдана. (Та хүсвэл өөр лицензийг оруулж болно.)
+<p align="center">
+✨ *Future-coded. Anime-powered. Neon-styled.* ✨
+</p>
 
 ---
 
-## English summary
+## 💙 About Me (私について)
+- 🔮 Future Cyberpunk Engineer from 2025  
+- 🌸 Anime aesthetic + kawaii UI enjoyer  
+- ⚡ Loves AI • Web • Automation  
+- 🐾 Fun fact: i love coffee and travell 
 
-Hello — I'm Tuul (GitHub: tuul6421). This repository contains a simple, responsive portfolio site built with HTML and CSS (light JavaScript). Open `index.html` to view locally. Contact: tuul.ga0604@gmail.com
+---
 
-Thank you for visiting my repo — feel free to open an issue or contact me for collaboration.
+## 💖 Tech Arsenal (技術)
+`TypeScript` `Python` `Next.js` `React`  
+`Tailwind` `Node.js`  
+`Docker` `Supabase` `AI/ML`  
 
-++ End README.md
+<p align="center">
+  <img src="https://i.imgur.com/x1KX43n.gif" width="350">
+</p>
+
+---
+
+## 🔥 Cyber Stats for tuul6421
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuul6421&theme=radical&show_icons=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuul6421&layout=compact&theme=radical" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuul6421&theme=radical">
+</p>
+
+---
+
+## 🌈 Cute Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/kawaii-100%25-ffbde7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/anime-lover-fb89ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/cyberpunk-mode-ff00ff?style=for-the-badge">
+</p>
+
+---
+
+## 🎀 Contact me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=vercel"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/1XRAI46.gif" width="220"><br>
+  <em>“Stay neon, stay kawaii, keep coding.”</em>
+</p>
