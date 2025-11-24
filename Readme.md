@@ -33,7 +33,7 @@
 ## ✨ Cosmic GitHub Stats for tuul6421
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8AA2B1&size=22&width=600&lines=Scanning+Documents+Signature...;Analyzing+data+Patterns...;Writing+Code+Balanced."/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=8AA2B1&size=22&width=600&lines=Scanning+Documents+Signature...;i+Build...;Break+and+Rebuild+Better."/>
 </div>
 ---
 
