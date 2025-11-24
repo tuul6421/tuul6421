@@ -31,22 +31,11 @@
 ---
 
 ## ✨ Cosmic GitHub Stats for tuul6421
-<p align="center">
-  <img src="https://i.imgur.com/rm6q2Z0.jpeg" width="460" style="border-radius: 12px;">
-</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8AA2B1&size=22&width=600&lines=Scanning+Cosmic+Signature...;Analyzing+Ocean+Grey+Patterns...;Neural+Waves+Balanced."/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=8AA2B1&size=22&width=600&lines=Scanning+Documents+Signature...;Analyzing+data+Patterns...;Writing+Code+Balanced."/>
 </div>
 ---
-
----
-
-## 📬 Connect to My Universe
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-cosmic%20pink-fc59ff?style=for-the-badge&logo=instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-ocean_blue-00d5ff?style=for-the-badge&logo=vercel"></a>
-</p>
 
 ---
 
