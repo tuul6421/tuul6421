@@ -32,10 +32,12 @@
 
 ## ✨ Cosmic GitHub Stats for tuul6421
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuul6421&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuul6421&layout=compact&theme=tokyonight" height="170">
+  <img src="https://i.imgur.com/rm6q2Z0.jpeg" width="460" style="border-radius: 12px;">
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8AA2B1&size=22&width=600&lines=Scanning+Cosmic+Signature...;Analyzing+Ocean+Grey+Patterns...;Neural+Waves+Balanced."/>
+</div>
 ---
 
 ---
