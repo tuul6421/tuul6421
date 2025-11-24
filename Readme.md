@@ -22,10 +22,6 @@
 `Tailwind` `Node.js`  
 `Docker` `Supabase` `AI/ML`  
 
-<p align="center">
-  <img src="https://i.imgur.com/RzN0Jk9.gif" width="360">
-</p>
-
 ---
 
 ## ✨ Cosmic GitHub Stats for tuul6421
@@ -34,17 +30,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuul6421&layout=compact&theme=tokyonight" height="170">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuul6421&theme=tokyonight">
-</p>
-
 ---
 
 ## 🌟 Ocean x Sky Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/ocean%20lover-00ccff?style=for-the-badge">
-  <img src="https://img.shields.io/badge/starry%20dreamer-6633ff?style=for-the-badge">
-  <img src="https://img.shields.io/badge/anime%20vibes-ff99ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TypeScript>
+  <img src="https://img.shields.io/badge/Python">
+  <img src="https://img.shields.io/badge/Next.js">
 </p>
 
 ---
