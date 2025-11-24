@@ -1,7 +1,7 @@
 ++ Begin README.md
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E0FF&center=true&vCenter=true&width=600&height=70&lines=tuul6421+—+Welcome+to+my+GitHub;Cyberpunk+%7C+Anime+%7C+Ocean+Sky+Vibes;Coding+with+Style+✨" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E0FF&center=true&vCenter=true&width=600&height=70&lines=tuul6421+—+Welcome+to+my+GitHub;Code+%7C+Create+%7C+Repeat;404:+Motivation+not+found✨" alt="Typing Animation">
 </h1>
 
 
@@ -40,6 +40,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/0HeYh7c.gif" width="230"><br>
   <em>“Under the stars, beside the waves — I create.”</em>
 </p>
