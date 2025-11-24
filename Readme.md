@@ -1,10 +1,9 @@
 ++ Begin README.md
 
-<h1 align="center">🌊✨ tuul6421 — Welcome to my github ✨🌊</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E0FF&center=true&vCenter=true&width=600&height=70&lines=tuul6421+—+Welcome+to+my+GitHub;Cyberpunk+%7C+Anime+%7C+Ocean+Sky+Vibes;Coding+with+Style+✨" alt="Typing Animation">
+</h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/H8N3P0F.gif" width="420"/>
-</p>
 
 ---
 
@@ -17,11 +16,18 @@
 
 ---
 
-## 🌊 Tech Stack — (Далайн Давалгаан Дээрх Технологи)
-`TypeScript` `Python` `Next.js` `React`  
-`Tailwind` `Node.js`  
-`Docker` `Supabase` `AI/ML`  
-
+## 🌈 **Tech Stack**
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 ---
 
 ## ✨ Cosmic GitHub Stats for tuul6421
@@ -31,13 +37,6 @@
 </p>
 
 ---
-
-## 🌟 Ocean x Sky Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript>
-  <img src="https://img.shields.io/badge/Python">
-  <img src="https://img.shields.io/badge/Next.js">
-</p>
 
 ---
 
