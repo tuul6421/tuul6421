@@ -1,4 +1,4 @@
-++ Begin README.md
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E0FF&center=true&vCenter=true&width=600&height=70&lines=tuul6421+—+Welcome+to+my+GitHub;Code+%7C+Create+%7C+Repeat;404:+Motivation+not+found✨" alt="Typing Animation">
@@ -8,8 +8,8 @@
 ---
 
 ## 🌌 About Me 
-- 🌙 Шөнө код бичих дуртай *night-coder*  
-- 🌊 Далайн эргийн амар амгалан + сансар огторгуйн гүн уудам  
+- 🌙  *night-coder*  
+- 🌊ocean  + moon  
 - ✨ Anime aesthetics
 - 🛠 AI • Web • Aesthetic UI хөгжүүлэлт  
 - ☕️ coffee + 🎶Song + 🛩️travell 
