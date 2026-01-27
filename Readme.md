@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E0FF&center=true&vCenter=true&width=600&height=70&lines=tuul6421+—+Welcome+to+my+GitHub;Code+%7C+Create+%7C+Repeat;404:+Motivation+not+found✨" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E0FF&center=true&vCenter=true&width=600&height=70&lines=tuul6421+—+Welcome+to+my+GitHub;Code+%7C+Create+%7C+Repeat;Motivation fades+ discipline builds+ success.✨" alt="Typing Animation">
 </h1>
 
 
@@ -11,7 +11,7 @@
 - 🌙  *night-coder*  
 - 🌊ocean  + moon  
 - ✨ Anime aesthetics
-- 🛠 AI • Web • Aesthetic UI хөгжүүлэлт  
+- 🛠 AI • Web •  AI хөгжүүлэлт  
 - ☕️ coffee + 🎶Song + 🛩️travell 
 
 ---
