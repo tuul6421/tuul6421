@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E0FF&center=true&vCenter=true&width=600&height=70&lines=tuul6421+—+Welcome+to+my+GitHub;Code+%7C+Create+%7C+Repeat;Motivation fades+ discipline builds+ success.✨" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E0FF&center=true&vCenter=true&width=600&height=70&lines=tuul6421+—+Welcome+to+my+GitHub;Code+%7C+Create+%7C+Repeat;Motivation fades + discipline builds + success✨" alt="Typing Animation">
 </h1>
 
 
