@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E0FF&center=true&vCenter=true&width=650&height=120&lines=tuul6421+—+Welcome+to+my+GitHub;;Code+%7C+Create+%7C+Repeat;;Motivation+fades+%2B+discipline+builds+%2B+success%E2%9C%A8" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E0FF&center=true&vCenter=true&width=650&height=120&lines=tuul6421+—+Welcome+to+my+GitHub;;Code+%7C+Create+%7C+Repeat;; Motivationfades+%2B+discipline+builds+%2B+success%E2%9C%A8" alt="Typing Animation">
 </h1>
 
 
