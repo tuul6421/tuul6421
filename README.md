@@ -22,6 +22,9 @@ I build production-ready web applications — from user-facing products to admin
 | **[Blacklist.mn](https://blacklist.mn)** | Community-driven scammer reporting platform. Users can search phone numbers, bank accounts, and identities — verified through a trust score system and community voting. | `React` `TypeScript` `Tailwind CSS` `Supabase` `Vite` | 🟢 Live |
 | **[tuul.store](https://tuul.store)** | Fashion e-commerce store with product catalog, cart, checkout, coupon system, and dedicated admin & partner portals. | `React 19` `Vite` `React Router` `Context API` | 🟢 Live |
 | **Movie Hub** | Movie discovery and browsing platform for Mongolian users. | `React` `TypeScript` `Tailwind CSS` | 🔨 In Progress |
+| **🌐 tuul.store** | JLPT N3 vocabulary learning platform for Mongolian speakers. | `React` `TypeScript` | 🔨 In Progress |
+| **🧠 Coding Platform** | Online coding platform built for Mongolians living in Japan. | `React` `TypeScript` | 🔨 In Progress |
+| **🏗 Dynamic Homepage** | Construction company homepage built with React. | `React` | 🟢 Live |
 
 ### Tech Stack
 
@@ -58,6 +61,9 @@ I build production-ready web applications — from user-facing products to admin
 | **[Blacklist.mn](https://blacklist.mn)** | モンゴル向けの詐欺師通報プラットフォーム。電話番号・銀行口座・氏名を検索でき、トラストスコアとコミュニティ投票で信頼性を検証できる。 | `React` `TypeScript` `Tailwind CSS` `Supabase` `Vite` | 🟢 公開中 |
 | **[tuul.store](https://tuul.store)** | 商品カタログ・カート・チェックアウト・クーポン機能を備えたファッションECサイト。管理者・パートナー向けの専用ポータルも実装。 | `React 19` `Vite` `React Router` `Context API` | 🟢 公開中 |
 | **Movie Hub** | モンゴルのユーザー向け映画発見・閲覧プラットフォーム。 | `React` `TypeScript` `Tailwind CSS` | 🔨 開発中 |
+| **🌐 tuul.store** | モンゴル人向けのJLPT N3単語学習プラットフォーム。 | `React` `TypeScript` | 🔨 開発中 |
+| **🧠 Coding Platform** | 日本在住モンゴル人向けのオンラインコーディングプラットフォーム。 | `React` `TypeScript` | 🔨 開発中 |
+| **🏗 Dynamic Homepage** | Reactで構築した建設会社のホームページ。 | `React` | 🟢 公開中 |
 
 ### 技術スタック
 
