@@ -1,44 +1,43 @@
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1500&center=true&vCenter=true&width=650&height=120&gradient=true&gradientColors=00E0FF,7C4DFF,FF4D9D&lines=tuul6421+—+Welcome+to+my+GitHub;;Code+%7C+Create+%7C+Repeat;;discipline+%2B+over+%2B+motivation%E2%9C%A8" alt="Typing Animation">
-</h1>
+# Hey, I'm Gantuul 👋
 
+**Full-Stack Developer** based in Mongolia — building real products for real people.
 
-
----
-
-## 🌌 About Me 
-- 🌙  *night-coder*  
-- 🌊ocean  + moon  
-- ✨ Anime aesthetics
-- 🛠 AI • Web •  AI хөгжүүлэлт  
-- ☕️ coffee + 🎶Song + 🛩️travell 
+</div>
 
 ---
 
-## 🌈 **Tech Stack**
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
+## What I'm Building
+
+**[Blacklist.mn](https://blacklist.mn)**
+A community-driven scammer reporting platform where Mongolians can search and verify suspicious phone numbers, bank accounts, and identities through a trust score system.
+`React` `TypeScript` `Tailwind CSS` `Supabase` `Vite`
+
 ---
 
-## ✨ Cosmic GitHub Stats for tuul6421
+**[tuul.store](https://tuul.store)**
+A full-featured fashion e-commerce store with product browsing, cart, checkout, coupon system, and separate admin & partner portals.
+`React 19` `Vite` `React Router` `Context API`
+
+---
+
+**Movie Hub** *(coming soon)*
+A platform for discovering and browsing movies.
+`React` `TypeScript` `Tailwind CSS`
+
+---
+
+## Tech Stack
+
+`React` `TypeScript` `Next.js` `Tailwind CSS` `Supabase` `Vite` `Vercel`
+
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8AA2B1&size=22&width=600&lines=Scanning+Documents+Signature...;i+Build...;Break+and+Rebuild+Better."/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuul6421&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+📬 tuul.ga0604@gmail.com
+
 </div>
----
-
----
-
-<p align="center">
-  <em>“Under the stars, beside the waves — I create.”</em>
-</p>
