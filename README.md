@@ -1,8 +1,8 @@
 <div align="center">
 
-# Сайн уу, би Gantuul 👋
+# Hello, I`m Gantuul 👋
 
-**Full-Stack Developer · Монгол**
+**Full-Stack Developer · Japan**
 
 Бодит асуудал шийддэг, хэрэглэгчдэд ашигтай продуктууд бүтээдэг.
 
