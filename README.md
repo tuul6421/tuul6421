@@ -1,63 +1,48 @@
 <div align="center">
 
-# Hello, I`m Gantuul 👋
+# Hi, I'm Gantuul 👋
 
-**Full-Stack Developer · Japan**
+**Full-Stack Developer** · Mongolia
 
-Бодит асуудал шийддэг, хэрэглэгчдэд ашигтай продуктууд бүтээдэг.
-
-[![GitHub](https://img.shields.io/badge/GitHub-gantuul-181717?style=flat-square&logo=github)](https://github.com/gantuul)
+I build production-ready web applications — from user-facing products to admin systems and community platforms.
 
 </div>
 
 ---
 
-## Одоо бүтээж байгаа зүйл
+## Projects
 
-### 🔍 [Blacklist.mn](https://blacklist.mn)
-> Монгол иргэдэд зориулсан луйварчин мэдээлэх & баталгаажуулах платформ
-
-Хэрэглэгчид утасны дугаар, банкны данс, нэр хайж болох бөгөөд community voting системээр trust score тооцогддог.
-
-- Community-driven **Trust Score** систем (0–100)
-- Evidence-based report шүүлт
-- Admin панел — зөвшөөрөх / татгалзах урсгал
-- Google OAuth + Supabase Auth
+| Project | Description | Tech Stack | Status |
+|---|---|---|---|
+| **[Blacklist.mn](https://blacklist.mn)** | Community-driven scammer reporting platform. Users can search phone numbers, bank accounts, and identities — verified through a trust score system and community voting. | `React` `TypeScript` `Tailwind CSS` `Supabase` `Vite` | 🟢 Live |
+| **[tuul.store](https://tuul.store)** | Fashion e-commerce store with product catalog, cart, checkout, coupon system, and dedicated admin & partner portals. | `React 19` `Vite` `React Router` `Context API` | 🟢 Live |
+| **Movie Hub** | Movie discovery and browsing platform for Mongolian users. | `React` `TypeScript` `Tailwind CSS` | 🔨 In Progress |
 
 ---
 
 ## Tech Stack
 
-```
-Frontend      React 18 · TypeScript · Tailwind CSS 4 · Vite
-Backend       Supabase (PostgreSQL · Auth · Storage · RLS)
-Deploy        Vercel
-```
-
----
-
-## Ур чадвар
-
-| Давхарга | Технологи |
+| Area | Technologies |
 |---|---|
-| Frontend | React · TypeScript · Tailwind CSS |
+| Frontend | React · TypeScript · Next.js · Tailwind CSS · Vite |
 | Backend | Supabase · PostgreSQL · Row Level Security |
-| Tooling | Vite · ESLint · Vercel |
+| Auth | Supabase Auth · Google OAuth |
+| Deploy | Vercel |
 
 ---
 
-## GitHub Stats
+## About Me
 
-<div align="center">
-
-![Gantuul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gantuul&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-</div>
+- Building web products focused on the Mongolian market
+- Comfortable working across the full stack — from database schema to UI
+- Experience shipping real apps with auth, admin panels, and third-party integrations
 
 ---
 
 <div align="center">
 
-📬 **Холбоо барих:** tuul.ga0604@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuul6421&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+📬 tuul.ga0604@gmail.com
 
 </div>
